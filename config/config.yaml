@@ -1,0 +1,5 @@
+spotify:
+  client_id: ${SPOTIFY_CLIENT_ID}
+  client_secret: ${SPOTIFY_CLIENT_SECRET}
+  redirect_uri: "http://localhost:8888/callback"
+  show_id: "0I9jmcOQTuSajNfDasQtlg"  # 外ではたらく私たち20'sのShow ID
